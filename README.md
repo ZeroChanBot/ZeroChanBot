@@ -20,3 +20,6 @@
 
 ## Repository Statistic
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=Zeroo&theme=dark)
+
+## APIKEY
+<a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> 
