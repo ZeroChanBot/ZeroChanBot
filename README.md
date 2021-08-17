@@ -23,3 +23,6 @@
 
 ## APIKEY
 <a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> 
+
+### Follow My Github
+(https://github.com/ZeroChanBot.png?size=100)](https://github.com/ZeroChanBot) 
