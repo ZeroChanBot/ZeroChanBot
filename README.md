@@ -19,7 +19,7 @@
 <p align="center"><a href="https://github.com/ZeroChanBot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroChanBot&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=ZeroGans&theme=blue)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=ZeroGans&theme=dark)
 
 ## APIKEY
 <a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> 
