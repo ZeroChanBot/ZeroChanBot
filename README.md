@@ -19,8 +19,8 @@
 <p align="center"><a href="https://github.com/ZeroChanBot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroChanBot&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=ZeroGans&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=Candy-BOT&theme=dark)
 
 ## Rest Api
-<a href="https://raku-web.herokuapp.com"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
+<a href="https://webraku.xyz"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
 
