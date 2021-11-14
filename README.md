@@ -3,6 +3,9 @@
   <img src="https://i.ibb.co/cyM9YyH/logoku.jpg" />
 </p>
 
+## Hello There
+<a href="//youtube.com/c/ZEROBOT7"><img align="center" src="https://cardivo.vercel.app/api?name=ZeroChanBot&description=Halo,%20I%27m%20Nathan%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/ZeroChanBot&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=ZeroChanBot&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
+</p>
 ## Contact Me In
 
   <a href="https://instagram.com/nathanaelhananta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -19,7 +22,7 @@
 <p align="center"><a href="https://github.com/ZeroChanBot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroChanBot&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=Candy-BOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=tesapi&theme=dark)
 
 ## Rest Api
 <a href="https://webraku.xyz"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
