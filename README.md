@@ -27,3 +27,117 @@
 ## Rest Api
 <a href="https://webraku.xyz"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
 
+
+## BUY SCRIPT REST
+```bash
+<b>PROMO Script Rest Api</b>
+
+   FITUR
+- Welcome 1-3
+- Goodbye 1-3
+- Mediafire Download
+- Facebook Download
+- Instagram Download
+- TikTok Download
+- YouTube MP3-MP4 (url)
+- YouTube MP3-MP4 (query)
+- YouTube Search
+- TikTok Stalker
+- Instagram Stalker
+- Info NPM
+- Happy Mod Download
+- Pinterest
+- Joox
+- Spotify
+- Lirik Lagu
+- Chord Lagu
+- Hadits Shahih
+- Al Quran
+- Doa Tahlil
+- Doa Wirid
+- Asmaul Husna
+- Doa Harian
+- Ayat Kursi
+- Kisah Nabi
+- Niat Shalat
+- Bacaan Shalat
+- Jadwal Sholat
+- Random Asupan
+- Random Asupan Santuy
+- Random Asupan Ukhty
+- Random Asupan Bokep
+- Random Asupan Hijab
+- Random Asupan Cecan
+- NSFW Ass
+- NSFW Ahegao
+- NSFW Bdsm
+- NSFW Blowjob
+- NSFW Cuckold
+- NSFW Cum
+- NSFW Ero
+- NSFW Femdom
+- NSFW Foot
+- NSFW Gangbang
+- NSFW Glasses
+- NSFW Hentai
+- NSFW Hentai GIF
+- NSFW Jahy
+- NSFW Masturbation
+- NSFW Neko
+- NSFW Orgy 
+- NSFW Panties
+- NSFW Pussy
+- NSFW Things
+- NSFW Yuri
+- Cecan China
+- Cecan Thailand
+- Cecan Indonesia
+- Cecan Japan
+- Cecan Malaysia
+- Cecan Korea
+- Cecan Vietnam
+- Bucin
+- Pantun
+- Cerpen
+- Cersex
+- Quotes
+- Dark Jokes
+- Quotes Kanye
+- Quotes Muslim
+- Meme
+- Wallpaper
+ DAN MASIH BANYAK LAGI
+ 
+ Kelebihan REST
+- Warna Bisa Disetting
+- Template Mirip LoL-Human
+- Mudah Untuk Direcode
+- Game Sangat Banyak
+
+ Kekurangan REST
+- Bagian Fitur Harus Dipisah
+
+105K manen. 
+
+Q : Bang kok mahal ya??
+P : Iya soalnya fitur nya banyak + waktu pengerjaan
+
+Q : Kalo genap jadi 100k bisa gak bang? 
+P : Untuk saat ini tidak bisa, karena hasil kami akan dibagi 2 maka harga tersebut kami naikkan untuk pajak pengiriman
+
+Q : Deploy lewat heroku bisa gak bang?? 
+P : Tentu saja bisa
+
+Q : Asli kah ini bang? 
+P : Tentu saja, untuk info lebih lanjut silahkan visit ke raku-web.herokuapp.com
+
+Q : Pembayarannya via apa bang
+P : Pembayarannya bisa lewat
+1. GOPAY
+2. DANA
+3. Rekening Bank
+
+Minat? Hubungi Kami Via WhatsApp. Dijamin Amanah 😉
+1. wa.me/6287834993722
+2. wa.me/62895378264836
+```
