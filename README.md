@@ -138,6 +138,6 @@ P : Pembayarannya bisa lewat
 3. Rekening Bank
 
 Minat? Hubungi Kami Via WhatsApp. Dijamin Amanah 😉
-1. wa.me/6287834993722
-2. wa.me/62895378264836
+1. [Nathan](https://wa.me/6287834993722)
+2. [ZyxMapLe](https://wa.me/62895378264836)
 ```
