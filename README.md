@@ -30,7 +30,7 @@
 
 ## BUY SCRIPT REST
 ```bash
-<b>PROMO Script Rest Api</b>
+PROMO Script Rest Api
 
    FITUR
 - Welcome 1-3
