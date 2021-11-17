@@ -129,7 +129,7 @@ Q : Deploy lewat heroku bisa gak bang??
 P : Tentu saja bisa
 
 Q : Asli kah ini bang? 
-P : Tentu saja, untuk info lebih lanjut silahkan visit ke raku-web.herokuapp.com
+P : Tentu saja 
 
 Q : Pembayarannya via apa bang
 P : Pembayarannya bisa lewat
@@ -137,6 +137,9 @@ P : Pembayarannya bisa lewat
 2. DANA
 3. Rekening Bank
 ```
+Untuk info lebih lanjut silahkan tekan link dibawah
+[Disini](https://raku-web.herokuapp.com)
+
 
 Minat? Hubungi Kami Via WhatsApp. Dijamin Amanah 😉
 1. [Nathan](https://wa.me/6287834993722)
