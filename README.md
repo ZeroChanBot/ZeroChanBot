@@ -29,7 +29,7 @@
 
 
 ## BUY SCRIPT REST
-```bash
+```
 PROMO Script Rest Api
 
    FITUR
@@ -136,8 +136,9 @@ P : Pembayarannya bisa lewat
 1. GOPAY
 2. DANA
 3. Rekening Bank
+```
 
 Minat? Hubungi Kami Via WhatsApp. Dijamin Amanah 😉
 1. [Nathan](https://wa.me/6287834993722)
 2. [ZyxMapLe](https://wa.me/62895378264836)
-```
+
