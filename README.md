@@ -5,9 +5,8 @@
 
 ## Hello There
 <a href="//youtube.com/c/ZEROBOT7"><img align="center" src="https://cardivo.vercel.app/api?name=ZeroChanBot&description=Halo,%20I%27m%20Nathan%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/ZeroChanBot&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=ZeroChanBot&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
-</p>
 ## Contact Me In
-
+<p>
   <a href="https://instagram.com/nathanaelhananta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6287834993722/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtu.be/lLodz2UzUNg"><img src="https://img.shields.io/badge/YouTube-ZEROBOT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/ZEROBOT7" /><br>
@@ -22,10 +21,15 @@
 <p align="center"><a href="https://github.com/ZeroChanBot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroChanBot&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=tesapi&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=Scrappe&theme=dark)
 
 ## Rest Api
 <a href="https://webraku.xyz"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
+
+## NPMJS
+<p>
+    <a href="https://nodei.co/npm/rakuapi/"><img src="https://nodei.co/npm/rakuapi.png?downloads=true&stars=true" alt="NPM INFO" /></a>
+  </p>
 
 
 ## BUY SCRIPT REST
@@ -117,12 +121,12 @@ PROMO Script Rest Api
  Kekurangan REST
 - Bagian Fitur Harus Dipisah
 
-105K manen. 
+55K
 
 Q : Bang kok mahal ya??
 P : Iya soalnya fitur nya banyak + waktu pengerjaan
 
-Q : Kalo genap jadi 100k bisa gak bang? 
+Q : Kalo genap jadi 50k bisa gak bang? 
 P : Untuk saat ini tidak bisa, karena hasil kami akan dibagi 2 maka harga tersebut kami naikkan untuk pajak pengiriman
 
 Q : Deploy lewat heroku bisa gak bang?? 
@@ -143,5 +147,5 @@ Untuk info lebih lanjut silahkan tekan link dibawah
 
 Minat? Hubungi Kami Via WhatsApp. Dijamin Amanah 😉
 1. [Nathan](https://wa.me/6287834993722)
-2. [ZyxMapLe](https://wa.me/62895378264836)
+2. [Rama](https://wa.me/62895378264836)
 
