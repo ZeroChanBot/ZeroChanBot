@@ -12,8 +12,15 @@
 <a href="https://youtu.be/lLodz2UzUNg"><img src="https://img.shields.io/badge/YouTube-ZEROBOT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/ZEROBOT7" /><br>
    <a href="https://github.com/ZeroChanBot"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/c/ZEROBOT7"><img src="https://img.shields.io/youtube/channel/subscribers/UC7SydwUESoyOQ3qZZuoaNHw?style=social" /> <br>
+</p>
+
+## Profile Statistic
+
+<h3 align="left">Visitor</h3>
+<p align="center">
+<img src="https://count.getloli.com/get/@ZeroChanBot?theme=moebooru-h" alt="visitor.svg">
   <a href="https://komarev.com/ghpvc/?username=ZeroChanBot&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ZeroChan&color=blue&style=flat-square&label=Profile+View"></a>
-  </p>
+</p>
 
 ## Github Statistic
 
